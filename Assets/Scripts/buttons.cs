@@ -53,6 +53,13 @@ public class buttons : MonoBehaviour
         UnityEngine.Debug.Log("Pressed for survey");
         SceneManager.LoadScene("Survey");
     }
+
+    public void changeToDocHome()
+    {
+        UnityEngine.Debug.Log("Pressed for DoctorHome");
+        SceneManager.LoadScene("DoctorHome");
+    }
+
     // Start is called before the first frame update
     void Start()
     {
