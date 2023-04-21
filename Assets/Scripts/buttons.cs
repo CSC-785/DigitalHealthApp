@@ -48,7 +48,7 @@ public class buttons : MonoBehaviour
         SceneManager.LoadScene("Info");
     }
 
-    public void changeTosurvey()
+    public void changeToSurvey()
     {
         UnityEngine.Debug.Log("Pressed for survey");
         SceneManager.LoadScene("Survey");
@@ -58,6 +58,42 @@ public class buttons : MonoBehaviour
     {
         UnityEngine.Debug.Log("Pressed for DoctorHome");
         SceneManager.LoadScene("DoctorHome");
+    }
+
+    public void changeToDocMenu()
+    {
+        UnityEngine.Debug.Log("Pressed for DoctorMenu");
+        SceneManager.LoadScene("DoctorMenu");
+    }
+
+    public void changeToDocSettings()
+    {
+        UnityEngine.Debug.Log("Pressed for DoctorSettings");
+        SceneManager.LoadScene("DoctorSettings");
+    }
+
+    public void changeToDocContact()
+    {
+        UnityEngine.Debug.Log("Pressed for DoctorContact");
+        SceneManager.LoadScene("DoctorContact");
+    }
+
+    public void changeToDocSelect()
+    {
+        UnityEngine.Debug.Log("Pressed for DoctorSelect");
+        SceneManager.LoadScene("DoctorSelect");
+    }
+
+    public void changeToDocSurvey()
+    {
+        UnityEngine.Debug.Log("Pressed for DoctorSurvey");
+        SceneManager.LoadScene("DoctorSurvey");
+    }
+
+    public void changeToLogin()
+    {
+        UnityEngine.Debug.Log("Pressed for Login");
+        SceneManager.LoadScene("Login");
     }
 
     // Start is called before the first frame update

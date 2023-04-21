@@ -1099,7 +1099,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1121961417}
         m_TargetAssemblyTypeName: buttons, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: changeToDocMenu
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
