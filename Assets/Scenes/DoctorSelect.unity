@@ -355,7 +355,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1fb9c123c21e04b0492db1771a05caa7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -566,7 +566,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lorem Ipsum, 41, male, Laparoscopic Surgery
+  m_text: Lorem Ipsum, 32, male, Laparoscopic Surgery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1182,7 +1182,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lorem Ipsum, 41, male, Laparoscopic Surgery
+  m_text: Lorem Ipsum, 25, female, Laparoscopic Surgery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1452,7 +1452,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8e0de5b6ae4114947bba83d62ac1c964, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2606,7 +2606,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9da21a427c9734b8a807686b95d0f34b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3498,7 +3498,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lorem Ipsum, 41, male, Laparoscopic Surgery
+  m_text: Lorem Ipsum, 28, female, Laparoscopic Surgery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3954,7 +3954,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: bdb5672939da94a9982a8073a1fc1716, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4030,7 +4030,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lorem Ipsum, 41, male, Laparoscopic Surgery
+  m_text: Lorem Ipsum, 37, female, Laparoscopic Surgery
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4165,7 +4165,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 304b94579bfe0433aae669da0c396dca, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4357,7 +4357,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 92e8451d1bae148e0951c0f49bc69f86, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4459,7 +4459,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1271359567}
   m_Direction: 2
   m_Value: 1
-  m_Size: 0.4706869
+  m_Size: 0.47053003
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
@@ -4946,7 +4946,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.500977, y: -776.1324}
+  m_AnchoredPosition: {x: -8.500977, y: -776.1323}
   m_SizeDelta: {x: 760.8175, y: 2232.2646}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1631853148
@@ -5704,7 +5704,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 81f82db8a58504edbb4369335dc8e765, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1

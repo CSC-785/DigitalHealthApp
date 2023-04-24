@@ -108,6 +108,24 @@ public class buttons : MonoBehaviour
         SceneManager.LoadScene("DocContactFrom");
     }
 
+    public void OpenPreURL()
+    {
+        Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSc2IyZjIDl1nzWm0wNog8DFWDE9hpcRL9fh5Kelse8SjiirdA/viewform?usp=sf_link");
+        UnityEngine.Debug.Log("Going to preop survey.");
+    }
+
+    public void OpenPostURL()
+    {
+        Application.OpenURL("https://docs.google.com/forms/d/e/1FAIpQLSf0wxX0mZ7s4gVxg2y-0L5vVc0uFCJe2wIWeGF8RjP2tkVlrQ/viewform?usp=sf_link");
+        UnityEngine.Debug.Log("Going to postop survey.");
+    }
+
+    public void OpenAdminURL()
+    {
+        Application.OpenURL("https://docs.google.com/forms/u/0/");
+        UnityEngine.Debug.Log("Going to admin survey.");
+    }
+
     // Start is called before the first frame update
     void Start()
     {

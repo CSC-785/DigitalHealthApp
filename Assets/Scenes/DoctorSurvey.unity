@@ -530,7 +530,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 266493245}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1106355523}
+        m_TargetAssemblyTypeName: buttons, Assembly-CSharp
+        m_MethodName: OpenAdminURL
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &266493245
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -854,7 +866,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1063114716}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1106355523}
+        m_TargetAssemblyTypeName: buttons, Assembly-CSharp
+        m_MethodName: OpenAdminURL
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1063114716
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1265,9 +1289,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: This is the page where you will take your pre- and post operative survey.
-    Don't worry if you don't see anyhting here yet, your doctor will assign it to
-    you when ready.
+  m_text: These buttons will lead you to the administration page of the respective
+    survey pages. Currently designed in Google Forms, feel free to change it to your
+    specific needs.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}

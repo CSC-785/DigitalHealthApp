@@ -980,7 +980,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -26.830719, y: -438.77405}
+  m_AnchoredPosition: {x: -26.830719, y: -438.77396}
   m_SizeDelta: {x: 695.0994, y: 1417.3722}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &660991872
@@ -1041,8 +1041,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lorem Ipsum is a very qualified doctor, trust me on this. With at least
-    1 year of education, they should know.
+  m_text: Jane Doe is a very qualified doctor, trust me on this. They graduated from
+    that one prestigious place with honors.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1480,8 +1480,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lorem Ipsum is a very qualified doctor, trust me on this. With at least
-    1 year of education, they should know.
+  m_text: Lorem Ipsum is a very qualified doctor, trust me on this. Though they just
+    graduated so you never know.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1787,7 +1787,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Assistant Doctor: Lorem Ipsum'
+  m_text: 'Assistant Doctor: Jane Doe'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1900,7 +1900,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -60.62897, y: -291.62003}
+  m_AnchoredPosition: {x: -57.629, y: -324}
   m_SizeDelta: {x: 581.50287, y: 238.7442}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1282152499
@@ -2172,7 +2172,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 345d09ed32bb74487a089f6789b10bf8, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2556,7 +2556,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Assistant Doctor: Lorem Ipsum'
+  m_text: 'Assistant Doctor: Lorem Ipsum Jr.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2767,7 +2767,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 934ff19f2695449bc9436a92cddf0a1b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2843,7 +2843,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 6008b90831e834150a87df38c9d08f38, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f28b4f6dd0ce04a43ae8ca301b25f7e9, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2944,8 +2944,8 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 2056154660}
   m_HandleRect: {fileID: 2056154659}
   m_Direction: 2
-  m_Value: 1
-  m_Size: 0.6912153
+  m_Value: 1.0000002
+  m_Size: 0.68712425
   m_NumberOfSteps: 0
   m_OnValueChanged:
     m_PersistentCalls:
