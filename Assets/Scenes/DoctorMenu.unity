@@ -209,7 +209,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1407282563}
         m_TargetAssemblyTypeName: buttons, Assembly-CSharp
-        m_MethodName: changeToInfo
+        m_MethodName: changeToDocInfo
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

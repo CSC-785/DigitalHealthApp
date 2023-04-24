@@ -75,7 +75,7 @@ public class buttons : MonoBehaviour
     public void changeToDocContact()
     {
         UnityEngine.Debug.Log("Pressed for DoctorContact");
-        SceneManager.LoadScene("DoctorContact");
+        SceneManager.LoadScene("DocContactTo");
     }
 
     public void changeToDocSelect()
@@ -94,6 +94,18 @@ public class buttons : MonoBehaviour
     {
         UnityEngine.Debug.Log("Pressed for Login");
         SceneManager.LoadScene("Login");
+    }
+
+    public void changeToDocInfo()
+    {
+        UnityEngine.Debug.Log("Pressed for DocInfo");
+        SceneManager.LoadScene("DocInfo");
+    }
+
+    public void changeToDocFrom()
+    {
+        UnityEngine.Debug.Log("Pressed for DocContactFrom");
+        SceneManager.LoadScene("DocContactFrom");
     }
 
     // Start is called before the first frame update
